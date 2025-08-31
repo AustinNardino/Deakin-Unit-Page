@@ -39,3 +39,4 @@ p {
 .linkrow a:hover {
   text-decoration: underline;
 }
+.unit td:first-child { font-weight: 600; } 
