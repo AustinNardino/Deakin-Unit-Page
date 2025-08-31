@@ -1,0 +1,41 @@
+h1 {
+  font-size: 40px;
+  font-family: Arial, sans-serif;
+}
+h2 {
+  font-size: 25px;
+  font-family: Arial, sans-serif;
+}
+h3 {
+  font-family: Arial, sans-serif;
+}
+p {
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+}
+.header {
+  background-color: #088c8c;
+  text-align: right;
+  padding: 8px 12px;
+}
+.unit {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 12px 0 18px;
+  font-family: Arial, sans-serif;
+}
+.unit td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+.unit tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+.linkrow a {
+  color: #0b7285;
+  text-decoration: none;
+}
+.linkrow a:hover {
+  text-decoration: underline;
+}
